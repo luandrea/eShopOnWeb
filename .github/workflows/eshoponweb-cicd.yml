@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: cloud-shell-storage-westeurope
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
-  WEBAPP-NAME: az400-webapp-NAME
+  SUBSCRIPTION-ID: bdc83fe7-2bbe-4495-81d4-f621a4623f24
+  WEBAPP-NAME: az400-webapp-from-github-action
 
 
 jobs:
